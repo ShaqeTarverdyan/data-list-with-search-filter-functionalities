@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Reporting",
+    "key": "reporting"
+  },
+  {
+    "id": 2,
+    "name": "Channels",
+    "key": "channels"
+  },
+  {
+    "id": 3,
+    "name": "Dialer",
+    "key": "dialer"
+  },
+  {
+    "id": 4,
+    "name": "Optimization",
+    "key": "optimization"
+  },
+  {
+    "id": 5,
+    "name": "Voice Analytics",
+    "key": "voice-analytics"
+  }
+]
