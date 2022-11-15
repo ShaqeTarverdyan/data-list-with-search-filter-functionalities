@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL bPOXGw"
+  >
+    There is no any matched data
+  </div>
+</DocumentFragment>
+`;
+
+exports[`testing the render of the NotFound component 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL bPOXGw"
+  >
+    There is no any matched data
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL imxVRw"
+  >
+    <div
+      class="sc-eCImPb jduaVz"
+    >
+      <div
+        class="sc-hKwDye"
+      >
+        <h3
+          class="sc-gsDKAQ kbyjGO"
+        >
+          Voice Report
+        </h3>
+        <p
+          class="sc-dkPtRN jqpBkB"
+        >
+          Calls reporting and analytics of your calls.
+        </p>
+      </div>
+      <div
+        class="sc-gKclnd"
+      >
+        <div
+          class="sc-jRQBWg"
+        >
+          Voice Analytics
+        </div>
+        <div
+          class="sc-jRQBWg"
+        >
+          Reporting
+        </div>
+        <div
+          class="sc-jRQBWg"
+        >
+          Optimization
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-iCfMLu gZJfOz"
+    >
+      <div
+        class="sc-furwcr lhlxOv"
+      >
+        <div
+          class="sc-pVTFL etPZCM"
+        >
+          Trial
+        </div>
+        <div
+          class="sc-jrQzAO"
+        >
+          0
+        </div>
+      </div>
+      <div
+        class="sc-furwcr lhlxOv"
+      >
+        <div
+          class="sc-pVTFL etPZCM"
+        >
+          Professional
+        </div>
+        <div
+          class="sc-jrQzAO"
+        >
+          3500
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`testing the render of the AppItemcomponent 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdvvtL imxVRw"
+  >
+    <div
+      class="sc-eCImPb jduaVz"
+    >
+      <div
+        class="sc-hKwDye"
+      >
+        <h3
+          class="sc-gsDKAQ kbyjGO"
+        >
+          Voice Report
+        </h3>
+        <p
+          class="sc-dkPtRN jqpBkB"
+        >
+          Calls reporting and analytics of your calls.
+        </p>
+      </div>
+      <div
+        class="sc-gKclnd"
+      >
+        <div
+          class="sc-jRQBWg"
+        >
+          Voice Analytics
+        </div>
+        <div
+          class="sc-jRQBWg"
+        >
+          Reporting
+        </div>
+        <div
+          class="sc-jRQBWg"
+        >
+          Optimization
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-iCfMLu gZJfOz"
+    >
+      <div
+        class="sc-furwcr lhlxOv"
+      >
+        <div
+          class="sc-pVTFL etPZCM"
+        >
+          Trial
+        </div>
+        <div
+          class="sc-jrQzAO"
+        >
+          0
+        </div>
+      </div>
+      <div
+        class="sc-furwcr lhlxOv"
+      >
+        <div
+          class="sc-pVTFL etPZCM"
+        >
+          Professional
+        </div>
+        <div
+          class="sc-jrQzAO"
+        >
+          3500
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
